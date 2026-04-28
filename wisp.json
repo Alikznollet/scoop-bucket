@@ -1,0 +1,21 @@
+{
+    "version": "0.0.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/Alikznollet/godot-wisp/releases/download/v0.0.1/wisp_Windows_x86_64.zip",
+            "bin": [
+                "wisp.exe"
+            ],
+            "hash": "b99f111a7a08ee8166def98bed5cb1fd25520c7b1f0904e7ed1a7387c767f512"
+        },
+        "arm64": {
+            "url": "https://github.com/Alikznollet/godot-wisp/releases/download/v0.0.1/wisp_Windows_arm64.zip",
+            "bin": [
+                "wisp.exe"
+            ],
+            "hash": "9f3c4ea855df8e854f49895fc31e4befd2c8f87fd4cf8573cb5c5dd687e92c23"
+        }
+    },
+    "homepage": "https://github.com/alikznollet/godot-wisp",
+    "description": "A completely optional package manager for Godot Addons."
+}
