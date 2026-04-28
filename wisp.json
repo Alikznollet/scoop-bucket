@@ -6,14 +6,14 @@
             "bin": [
                 "wisp.exe"
             ],
-            "hash": "b99f111a7a08ee8166def98bed5cb1fd25520c7b1f0904e7ed1a7387c767f512"
+            "hash": "151a0a8dc80fc2a05655130b803632aaefd82b020dff498d1e1685c161c4d4d2"
         },
         "arm64": {
             "url": "https://github.com/Alikznollet/godot-wisp/releases/download/v0.0.1/wisp_Windows_arm64.zip",
             "bin": [
                 "wisp.exe"
             ],
-            "hash": "9f3c4ea855df8e854f49895fc31e4befd2c8f87fd4cf8573cb5c5dd687e92c23"
+            "hash": "8c4cd26b8543538a1ce4db3d83d42912b9a72bf5c8a0456077da4854fad8ad6e"
         }
     },
     "homepage": "https://github.com/alikznollet/godot-wisp",
