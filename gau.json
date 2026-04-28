@@ -1,0 +1,21 @@
+{
+    "version": "0.0.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/Alikznollet/godot-addon-updater/releases/download/v0.0.1/gau_Windows_x86_64.zip",
+            "bin": [
+                "gau.exe"
+            ],
+            "hash": "1558c5b40cc69f535864d05af51ae32a6fd77c2fade42b035587b4f444213045"
+        },
+        "arm64": {
+            "url": "https://github.com/Alikznollet/godot-addon-updater/releases/download/v0.0.1/gau_Windows_arm64.zip",
+            "bin": [
+                "gau.exe"
+            ],
+            "hash": "a6e385b1cd8fb6829561a7c713eebb8f3f8077fe882e9092aecb7a5f50de30b9"
+        }
+    },
+    "homepage": "https://github.com/alikznollet/godot-addon-updater",
+    "description": "A completely optional package manager for Godot Addons."
+}
