@@ -1,19 +1,19 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Alikznollet/godot-wisp/releases/download/v0.1.1/wisp_Windows_x86_64.zip",
+            "url": "https://github.com/Alikznollet/godot-wisp/releases/download/v0.2.0/wisp_Windows_x86_64.zip",
             "bin": [
                 "wisp.exe"
             ],
-            "hash": "5773f894cf2dd4b14d2ee149ec5eb9ed45c71e62d3a41be446f31170890af526"
+            "hash": "f7179c281d22fcf84a40615895ee049af79eb62bdfc7cb6185c199823765c8e1"
         },
         "arm64": {
-            "url": "https://github.com/Alikznollet/godot-wisp/releases/download/v0.1.1/wisp_Windows_arm64.zip",
+            "url": "https://github.com/Alikznollet/godot-wisp/releases/download/v0.2.0/wisp_Windows_arm64.zip",
             "bin": [
                 "wisp.exe"
             ],
-            "hash": "9e1d6c0d332281cb4e0dddf12fd9afe255770e1c9fa47b95604f2f297e07ddb3"
+            "hash": "c3a0e33c26d83fa89349294293a12a8dbef81106e9e1143b5a4a9c845ec5d9d0"
         }
     },
     "homepage": "https://github.com/alikznollet/godot-wisp",
